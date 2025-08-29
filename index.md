@@ -14,3 +14,6 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] nộp bài tập hôm nay
+-  [ ] Heheele
+-   [ ] Việt Nam vô địch World Cup năm 2036
